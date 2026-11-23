@@ -1,0 +1,18 @@
+# Tested notebook environment pins / core dependencies
+transformers==4.57.1
+tokenizers>=0.22,<=0.23
+huggingface_hub>=0.34,<1.0
+peft
+accelerate
+bitsandbytes
+datasets
+sentence-transformers
+faiss-cpu
+langchain-text-splitters
+beautifulsoup4
+requests
+numpy
+pandas
+scikit-learn
+matplotlib
+torch
